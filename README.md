@@ -1,2 +1,3 @@
-# tarea-1
-En primer lugar, tuvimos en mente dos opciones para el tema de nuestro trabajo. El primero fueron los graffitis y su expansión. Sin embargo, no encontramos muchos registros sobre esta idea. Decidimos que lo más conveniente era el segundo tema: la sequía. Este a diferencia del anterior, existe información de diferentes fuentes en los distintos lugares del mundo. El foco y la extensión del trabajo puede ser más abarcable en términos de datos e hipótesis. 
+Nombre: María José Salazar
+link:
+mail:mjo.salazar@uc.cl
